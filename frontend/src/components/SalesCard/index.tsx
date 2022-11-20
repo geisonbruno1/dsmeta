@@ -81,7 +81,8 @@ function SalesCard() {
                                     </td>
                                 </tr>
                             )
-                        })}
+                        })
+                        }
                     </tbody>
 
                 </table>
